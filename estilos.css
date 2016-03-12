@@ -1,0 +1,29 @@
+body{
+	background: purple;
+}
+h1{
+	text-align: center;
+    color: black;
+}
+p{
+	text-align: center;
+	color:black;
+	font-size: 30px;
+}
+h2{
+	text-align: center;
+    color: black;
+}
+img{
+	width: 1000px;
+	box-shadow: 10px 10px
+	20px white;
+	cursor: pointer;
+	transition: 15;
+}
+.mi-video{
+ 	margin-top: 40px;
+ }
+ .mi-video video{
+	    width: 350px;
+}
